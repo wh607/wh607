@@ -7,6 +7,7 @@ I'm Will and I'm a recent BSc Mathematics graduate from the University of Bath. 
 - Year 3, 2nd Semester: Machine Learning (Matrix Completion on an X-ray image using GD and SGD, Python) - https://github.com/wh607/Matrix-Completion-on-X-Ray-Image
 - Year 3, 1st Semester: Data Science (Pollutant levels, crime rates and textual analysis, R) - https://github.com/wh607/Text-and-Spatial-Data-Analysis
 - Year 3: 1st Semester: Data Science (Orchid and hospital data visualisation and analysis, R) - https://github.com/wh607/Orchid-and-Hospital-Data-Analysis
+- Year 3: 1st Semesster: Methods for Stochastic Systems (Stochastic system analysis and simluation, MATLAB) - https://github.com/wh607/Gillespie-Stochastic-System-Simluation
 
 ### Languages and Packages
 - Python: numpy, pandas, matplotlib, scipy, sklearn.
